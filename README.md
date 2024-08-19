@@ -140,6 +140,19 @@ Deploying this application on the cloud (e.g., AWS, Heroku) is less common for a
 - **Security**: Be cautious when handling encryption keys, especially in cloud environments. Store them securely.
 
 This deployment guide should help you run and distribute the Image Encryptor and Decryptor application on various platforms.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/34c4f8aa-7c18-417d-8d9c-bf2cb7c657f8)
+
+![image](https://github.com/user-attachments/assets/ba2dea09-d10d-4946-9717-b77d18d35960)
+
+![image](https://github.com/user-attachments/assets/92b018aa-dfae-483d-bf51-45b0281b6a96)
+
+![image](https://github.com/user-attachments/assets/bf52c4eb-c92d-4aad-9618-c9283a3564cf)
+
+
+
 ## Usage
 
 
